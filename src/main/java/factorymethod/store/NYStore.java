@@ -1,7 +1,7 @@
-package fatorymethod.store;
+package factorymethod.store;
 
-import fatorymethod.pizza.NYPizza;
-import fatorymethod.pizza.Pizza;
+import factorymethod.pizza.NYPizza;
+import factorymethod.pizza.Pizza;
 
 /**
  * Created by chenxinyue on 2015/12/27.
